@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/home/ubuntu/workspace/Lista-5/Ex2/src/main/scala/Ex2.scala:13:25: not found: value Random[0m
+[0m[[0m[31merror[0m] [0m[0m            val n = 1 + Random.nextInt (199)[0m
+[0m[[0m[31merror[0m] [0m[0m                        ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

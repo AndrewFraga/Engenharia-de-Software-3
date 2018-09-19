@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/home/ubuntu/workspace/Lista-5/Ex1/src/main/scala/Ex1.scala:14:22: value system is not a member of akka.actor.ActorRef[0m
+[0m[[0m[31merror[0m] [0m[0m                self.system.shutdown()[0m
+[0m[[0m[31merror[0m] [0m[0m                     ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/ubuntu/workspace/Lista-5/Ex1/src/main/scala/Ex1.scala:29:22: value system is not a member of akka.actor.ActorRef[0m
+[0m[[0m[31merror[0m] [0m[0m                self.system.shutdown()[0m
+[0m[[0m[31merror[0m] [0m[0m                     ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

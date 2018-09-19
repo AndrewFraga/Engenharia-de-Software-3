@@ -1,0 +1,29 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/ubuntu/workspace/Lista-5/Ex1/target/scala-2.12/ex1_2.12-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PlayerB.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/workspace/Lista-5/Ex1/target/scala-2.12/classes/PlayerB.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PlayerA.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/workspace/Lista-5/Ex1/target/scala-2.12/classes/PlayerA.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Ping.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/workspace/Lista-5/Ex1/target/scala-2.12/classes/Ping.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Ex1$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/workspace/Lista-5/Ex1/target/scala-2.12/classes/Ex1$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PlayerA$$anonfun$receive$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/workspace/Lista-5/Ex1/target/scala-2.12/classes/PlayerA$$anonfun$receive$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Ex1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/workspace/Lista-5/Ex1/target/scala-2.12/classes/Ex1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Start.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/workspace/Lista-5/Ex1/target/scala-2.12/classes/Start.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Pong$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/workspace/Lista-5/Ex1/target/scala-2.12/classes/Pong$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Msg.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/workspace/Lista-5/Ex1/target/scala-2.12/classes/Msg.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Ping$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/workspace/Lista-5/Ex1/target/scala-2.12/classes/Ping$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Start$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/workspace/Lista-5/Ex1/target/scala-2.12/classes/Start$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Pong.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/workspace/Lista-5/Ex1/target/scala-2.12/classes/Pong.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PlayerB$$anonfun$receive$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/ubuntu/workspace/Lista-5/Ex1/target/scala-2.12/classes/PlayerB$$anonfun$receive$2.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
